@@ -13,6 +13,7 @@ Custom driving models for openpilot (carrot fork).
 | ID | Name | Size | Added |
 |----|------|------|-------|
 | Off policyv3 | Off policyv3 | 36.2MB | 2026-02-27 |
+| Off policyv4 | Off policyv4 | 37.2MB | 2026-02-27 |
 | Off policyv2 | Off policyv2 | 46.4MB | 2026-02-21 |
 | Off policy | Off policy | 59.1MB | 2026-02-05 |
 | CD210 | CD210 | 58.1MB | 2026-02-01 |
