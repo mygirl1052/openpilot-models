@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-03-14T17:20:27+09:00",
+  "updated_at": "2026-03-21T11:34:17+09:00",
   "models": [
     {
       "id": "CD210",
@@ -311,6 +311,23 @@
       "added_at": "2026-03-14"
     },
     {
+      "id": "POP",
+      "name": "POP",
+      "base_url": "https://raw.githubusercontent.com/happymaj11r/openpilot-models/main/models/POP",
+      "files": {
+        "driving_policy.onnx": {
+          "size": 14061595,
+          "sha256": "b52f54fa7c082faeced177aff8efd1ae803c35a1d7c137282a72ee7681586384"
+        },
+        "driving_vision.onnx": {
+          "size": 46877997,
+          "sha256": "b8b241824b91bc9747b172e6be9cadda80bafe3b2bbe7035d92acb1c3d4403f9"
+        }
+      },
+      "minimum_selector_version": 2,
+      "added_at": "2026-03-21"
+    },
+    {
       "id": "Planplus",
       "name": "Planplus",
       "base_url": "https://raw.githubusercontent.com/happymaj11r/openpilot-models/main/models/Planplus",
@@ -584,5 +601,5 @@
     }
   ],
   "key_id": "key_2025_01",
-  "signature": "BQvz1BYTvaEWA99bIXhZJ6k8ToRMCCOYXeB7m/vOwhre/uf8EIbEjuvXns3It0+xGn/KhgcpbBmOXVBhOvcQCQ=="
+  "signature": "qN1UpMORZT4e0aCl+Nai5BFaEzvw6ISJcM1UrwwZPUaE8SNEpNEX0pyazSIt4r0fiQc2p9I+EC34MqRF55y8AQ=="
 }
